@@ -1,5 +1,2 @@
-Lists the Python dependencies required for the application.
 flask==3.0.3
 gunicorn==23.0.0
- Flask—The web framework for building the application.
- Gunicorn—A production-ready WSGI server to run the Flask app in the container.
